@@ -11,3 +11,7 @@ button {
 	font-size: 18px;
 	cursor: pointer;
 }
+
+.type-style {
+	color: red;
+}
